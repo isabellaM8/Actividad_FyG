@@ -1,0 +1,24 @@
+.layer-sidebar{
+    display: flex;
+    margin-top: 20px;
+    height: 250px;
+}
+.sidebar{
+    flex: 1;
+    background: 9ad5d9;
+    padding: 10px;
+}
+.contenido{
+    flex: 8;
+    background: c7e7e9;
+    padding: 20px;
+}
+.side-menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.side-menu li{
+    padding: 12px;
+    border-bottom:  1px solid gray;
+}
